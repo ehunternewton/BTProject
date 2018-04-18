@@ -14,3 +14,4 @@ User has option to:
 7 - Quit without saving
 
 Constraint: Employee's salaries must be at least $3,000 different
+
