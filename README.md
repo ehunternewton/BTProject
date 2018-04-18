@@ -1,10 +1,10 @@
 # BTProject
 Self Balancing Binary Tree in Java!
-Final Project for Data Structures in Java 
+Final Project for Data Structures in Java at Houston Community College
 
 AVLTree.java loads employee information from test.txt, and creates a balanced binary tree.
 
-User has option to:
+User has command line options to:
 1 - Display Employee Database by Salary
 2 - Display Binary Tree Height & PreOrder
 3 - Add an Employee
