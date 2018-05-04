@@ -2,6 +2,8 @@
 Self Balancing Binary Tree in Java!
 Final Project for Data Structures in Java at Houston Community College
 
+used utility methods and rotation algorithms from https://www.geeksforgeeks.org/avl-tree-set-1-insertion/
+
 AVLTree.java loads employee information from test.txt, and creates a balanced binary tree.
 
 User has command line options to:
